@@ -1,5 +1,6 @@
 # Olá, Tudo bem? Sou o Kayky-Schunck
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kaykyschuncka&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaykyschunck&show_icons=true)
 
 
  
