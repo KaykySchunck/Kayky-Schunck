@@ -1,0 +1,21 @@
+body{
+    background-color: #E9E9E1;
+}
+
+.bordas-container{
+    width: 100%;
+    height: 65vh;
+    border-radius: 12px;
+}
+
+#Nome::placeholder {
+    border-radius: 15px;
+}
+
+.borda-img{
+    
+    border-radius: 5px;
+    width: 600px;
+}
+
+

@@ -1,0 +1,30 @@
+
+.fundo{
+    background: #196273;
+    
+}
+
+
+.logo{
+    width: 125px;
+}
+
+.fundo-botao{
+    background-color:#0F3057 ;
+
+}
+.fundo-botao:hover{
+    opacity: 0.9;
+    background-color: #0F3057;
+}
+
+
+header nav .nav-links a:hover{
+    background-color: transparent;
+    color: #F46347;
+    
+}
+.borda{
+    border: solid red 1px;
+}
+
